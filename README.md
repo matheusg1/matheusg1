@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Matheus Gomes</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas, me aprimorando em desenvolvimento Full-stack.</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas, me aprimorando em desenvolvimento Full Stack.</h3>
 
 - 🌱 Atualmente evoluindo em **PHP, MySQL, CSS, HTML5.**
 
