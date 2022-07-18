@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Gomes</h1>
 <h3 align="center">A Systems Analysis and Development's student</h3>
 
-- 🌱 I’m currently learning **JavaScript, Git**
+- 🌱 I’m currently learning **Java**
 
 - 💬 I'm improving in **PHP, JavaScript, CSS, Bootstrap**
 
