@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Matheus Gomes</h1>
 <h3 align="center">A Systems Analysis and Development student</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning about API's
 
-- 💬 I'm improving in **PHP, JavaScript, CSS, Bootstrap**
+- 💬 I'm improving in **ASP.NET Core, JavaScript && CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/matheusg1/](https://github.com/matheusg1/)
 
