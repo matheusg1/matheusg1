@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Matheus Gomes</h1>
-<h3 align="center">A Systems Analysis and Development student</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🌱 I’m currently learning about API's
 
