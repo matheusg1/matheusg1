@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning about API's
 
-- 💬 I'm improving in **.NET**
+- 💬 I'm improving in **.NET** and JavaScript
 
 - 👨‍💻 All of my projects are available at [https://github.com/matheusg1/](https://github.com/matheusg1/)
 
