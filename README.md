@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Matheus Gomes</h1>
+<h1 align="center">Matheus Gomes</h1>
 <h3 align="center">Web Developer</h3>
 
 - 🌱 I’m currently learning about API's
