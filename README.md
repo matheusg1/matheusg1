@@ -2,27 +2,28 @@
 <h1 align="center">Matheus Gomes</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning about API's
+- 🌱 I’m currently learning about REST API's
 
-- 💬 I'm improving in **.NET** and JavaScript
+- 💬 I'm improving in **.NET** and TypeScript
 
-- 👨‍💻 All of my projects are available at [https://github.com/matheusg1/](https://github.com/matheusg1/)
+- 👨‍💻 All of my personal projects are available here
 
 - 📫 How to reach me **tecmatheusg@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/matheusgs1/](https://www.linkedin.com/in/matheusgs1/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matheusgs1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusgs1" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/matheusg1" target="_blank">
-<img align="center" src="https://docs.codewars.com/logo.svg" alt="codewars" height="40" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40" /> </a>
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+<p>
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-c-sharp-computer-programming-flaticons-lineal-color-flat-icons.png" alt="csharp" height="70"/>
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" alt="sql" height="70"/>
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-javascript-computer-programming-flaticons-lineal-color-flat-icons.png" alt="javascript" height="70"/>
+</p>
+<p>
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-laptop-computer-programming-flaticons-lineal-color-flat-icons.png" alt="api" height="68"/>
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-database-computer-programming-flaticons-lineal-color-flat-icons.png" alt="database" height="70"/>
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-responsive-design-computer-programming-flaticons-lineal-color-flat-icons.png" alt="responsive" height="70"/>
+</p>
 
