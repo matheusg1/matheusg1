@@ -2,7 +2,7 @@
 <h1 align="center">Matheus Gomes</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning about REST API's
+- 🌱 I’m currently learning about REST APIs
 
 - 💬 I'm improving in **.NET** and TypeScript
 
