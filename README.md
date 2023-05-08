@@ -2,17 +2,19 @@
 <h1 align="center">Matheus Gomes</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning about REST APIs
+- 🔭 Tenho conhecimentos em .NET com C# - Arquitetura em camadas, Rest APIs
 
-- 💬 I'm improving in **.NET** and TypeScript
+- 🌱 Estou aprendendo sobre testes unitários
 
-- 👨‍💻 All of my personal projects are available here
+- 💬 Melhorando minhas habilidades em TypeScript
 
-- 📫 How to reach me **tecmatheusg@hotmail.com**
+- 👨‍💻 Todos meus projetos pessoais estão aqui
 
-<h3 align="left">Connect with me:</h3><a href="https://linkedin.com/in/matheusgs1" target="_blank"><img src="https://img.icons8.com/doodle/256/linkedin--v2.png" alt="matheusgs1" height="60"/></a>
+- 📫 Contato **tecmatheusg@hotmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linkedin:</h3><a href="https://linkedin.com/in/matheusgs1" target="_blank"><img src="https://img.icons8.com/doodle/256/linkedin--v2.png" alt="matheusgs1" height="60"/></a>
+
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p>
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-c-sharp-computer-programming-flaticons-lineal-color-flat-icons.png" alt="csharp" height="70"/>
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" alt="sql" height="70"/>
