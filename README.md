@@ -1,6 +1,6 @@
 
 <h1 align="center">Matheus Gomes</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Desenvolvedor</h3>
 
 - 🔭 Tenho conhecimentos em .NET com C# - Arquitetura em camadas, Rest APIs
 
