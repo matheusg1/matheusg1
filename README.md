@@ -2,15 +2,19 @@
 <h1 align="center">Matheus Gomes</h1>
 <h3 align="center">Desenvolvedor</h3>
 
-- 🔭 Tenho conhecimentos em .NET com C# - Arquitetura em camadas, Rest APIs
+- 💾 Tenho experiência com REST APIs, arquitetura em camadas, ORMs, banco de dados relacional, testes e responsividade
 
-- 🌱 Estou aprendendo sobre testes unitários
+- ⚙️ .NET, C#, SQL, Entity Framework, Dapper, Git
 
-- 💬 Melhorando minhas habilidades em TypeScript
+- 🎨 React, Bootstrap, jQuery
+
+- 💼 Atualmente no meu trabalho estou desenvolvendo programas de automação e mantendo aplicações web
+  
+- 🌱 Melhorando minhas habilidades em TypeScript
 
 - 👨‍💻 Meu <b><a target="_blank" href="https://matheusg.vercel.app/">portfólio</a></b>
 
-- 📫 Contato **tecmatheusg@hotmail.com**
+- ✉️ Contato **tecmatheusg@hotmail.com**
 
 <h3 align="left">Linkedin:</h3><a href="https://linkedin.com/in/matheusgs1" target="_blank"><img src="https://img.icons8.com/doodle/256/linkedin--v2.png" alt="matheusgs1" height="60"/></a>
 
