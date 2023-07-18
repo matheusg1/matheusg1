@@ -8,7 +8,7 @@
 
 - 💬 Melhorando minhas habilidades em TypeScript
 
-- 👨‍💻 Todos meus projetos pessoais estão aqui
+- 👨‍💻 Meu <b><a target="_blank" href="https://matheusg.vercel.app/">portfólio</a></b>
 
 - 📫 Contato **tecmatheusg@hotmail.com**
 
