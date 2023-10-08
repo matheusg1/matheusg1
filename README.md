@@ -2,7 +2,7 @@
 <h1 align="center">Matheus Gomes</h1>
 <h3 align="center">Desenvolvedor</h3>
 
-- 💾 Tenho experiência com REST APIs, arquitetura em camadas, ORMs, banco de dados relacional, testes e responsividade
+- 💾 Tenho experiência com REST APIs, arquitetura em camadas, ORMs, banco de dados relacional, testes e tecnologias front-end.
 
 - ⚙️ .NET, C#, SQL, Entity Framework, Dapper, Git
 
@@ -10,7 +10,7 @@
 
 - 💼 Atualmente no meu trabalho estou desenvolvendo programas de automação e mantendo aplicações web
   
-- 🌱 Melhorando minhas habilidades em TypeScript
+- 🌱 Melhorando minhas habilidades em jQuery
 
 - 👨‍💻 Meu <b><a target="_blank" href="https://matheusg.vercel.app/">portfólio</a></b>
 
