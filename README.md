@@ -4,13 +4,13 @@
 
 - 💾 Tenho experiência com REST APIs, arquitetura em camadas, ORMs, banco de dados relacional, testes e tecnologias front-end.
 
-- ⚙️ .NET, C#, SQL, Entity Framework, Dapper, Git
+- ⚙️ .NET, C#, Java, SQL, React, jQuery, Entity Framework, Dapper, Git
 
-- 🎨 React, Bootstrap, jQuery
+- 🎨 Bootstrap
 
 - 💼 Atualmente no meu trabalho estou desenvolvendo programas de automação e mantendo aplicações web
   
-- 🌱 Melhorando minhas habilidades em jQuery
+- 🌱 No momento revisando meus conhecimentos em arquitetura e qualidade de código
 
 - 👨‍💻 Meu <b><a target="_blank" href="https://matheusg.vercel.app/">portfólio</a></b>
 
